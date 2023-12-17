@@ -5,7 +5,7 @@
 
 
 
-![xuehu2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuehu2&show_icons=true&theme=tokyonight)
+![hu-xue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu-xue&show_icons=true&theme=tokyonight)
 
 <!--
 **xuehu2/xuehu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
