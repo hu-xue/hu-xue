@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SLAM.
-- 🌱 I’m currently learning laser SLAM and factor graph estimation.
-
-
+- 🔭 I’m currently working on SLAM and Deep Learning.
+- 🌱 I’m currently learning visual and IMU based odometry or SLAM.
 
 
 ![hu-xue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu-xue&show_icons=true&theme=tokyonight)
