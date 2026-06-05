@@ -1,21 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SLAM and Deep Learning.
-- 🌱 I’m currently learning visual and IMU based odometry or SLAM.
 
+I'm **Hu Xue**, a researcher interested in **SLAM**, **visual-inertial odometry**, and **deep learning for intelligent perception**.
 
-![hu-xue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu-xue&show_icons=true&theme=tokyonight)
+- 🔭 Currently working on **SLAM and deep learning**.
+- 🌱 Currently learning **visual odometry, IMU-based odometry, and visual-inertial SLAM**.
+- 🚗 Interested in **multi-sensor fusion, robust localization, and autonomous driving perception**.
 
-<!--
-**xuehu2/xuehu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hu Xue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu-xue&show_icons=true&theme=tokyonight)
